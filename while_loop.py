@@ -1,5 +1,6 @@
 n = 10
-while n > -6 :
+limit = -5
+while n >= limit :
    print n
    n = n - 1
 
